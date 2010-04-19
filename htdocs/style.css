@@ -1,0 +1,43 @@
+#center {
+    float: left;
+    width: 730px;
+}
+
+#right {
+    float: right;
+    width: 15%;
+}
+
+#footer {
+    clear: both;
+}
+
+body {
+    background: #FFF;
+}
+
+#header, #footer {
+    font-size: large;
+    text-align: center;
+    padding: 0.3em 0;
+}
+
+#center, #container {
+    background: #DDD;
+}
+
+#chead {
+    padding-bottom: 1em;
+}
+
+#center img {
+    padding-top: 1em;
+}
+
+#right {
+    background: #F66;
+}
+
+#container .column {
+    padding-top: 1em;
+}
